@@ -26,7 +26,7 @@ $ vim composer.json
 
   {
     "require": {
-        "dsasikumar08/solr-php-client": "1.0.4"
+        "cspadm/solr-php-client": "1.0.4"
     }
   }
 
