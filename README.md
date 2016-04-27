@@ -2,11 +2,11 @@
 A PHP library for indexing and searching documents within an Apache Solr installation. Supports both Solr 3 and 4. — Fork of the solr-php-client project on Google Code. https://github.com/PTCInc/solr-php-client
 
 ## What is Apache Solr?
-=> Solr is an open source enterprise search server based on the Lucene Java search library, with XML/HTTP
+ * Solr is an open source enterprise search server based on the Lucene Java search library, with XML/HTTP
   and JSON APIs, hit highlighting, faceted search, caching, replication, a web administration interface
   and many more features. It runs in a Java servlet container such as Tomcat.
   
-=> For more information about Solr, please see the [Solr Web Page](http://lucene.apache.org/solr/). The
+ * For more information about Solr, please see the [Solr Web Page](http://lucene.apache.org/solr/). The
   project's [Wiki](http://wiki.apache.org/solr/) is the de facto starting point for information on how
   to install and configure Solr for your individual needs.
 
