@@ -26,9 +26,13 @@ Install Solr PHP Client Library In Your Project
 $ vim composer.json
 
   {
+  
     "require": {
+    
         "cspadm/solr-php-client": "1.0.4"
+        
     }
+    
   }
 
 $ php composer.phar install
