@@ -1,0 +1,12 @@
+{
+    "name": "cspadm/solr-php-client",
+    "description": "A PHP library for indexing and searching documents within an Apache Solr installation.",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "cspadm",
+            "email": "dsasikumar.btech08@hotmail.com",
+            "role": "Cloud Systems Administrator"
+        }
+    ]
+}
